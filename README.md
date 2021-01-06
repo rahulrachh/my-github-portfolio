@@ -1,4 +1,4 @@
-Star this repo if it helped you for your website on GitHub.
+# Star this repo if it helps you for your website on GitHub.
 
 # Sections 📚
 
@@ -6,7 +6,7 @@ Star this repo if it helped you for your website on GitHub.
 ✔️ Skills \
 ✔️ Experience\
 ✔️ Certifications 🏆\
-✔️ Education\
+✔️ Education
 
 To view a live example, **[click here](https://rahulrachh.github.io/)**
 I removed the contact page as all the social media links are available in the first page itself.
