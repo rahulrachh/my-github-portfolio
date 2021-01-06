@@ -18,7 +18,7 @@ I removed the contact page as all the social media links are available in the fi
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/ashutosh1919/masterPortfolio.git
+     git clone https://github.com/rahulrachh/my-github-portfolio.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -115,7 +115,7 @@ Whenever you want to update the github related information on the website you ne
 - The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
 
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
-If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
+If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video by Ashutosh Hathidara.
 
 <p align="center"> 
     <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
@@ -147,4 +147,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 # References 👏🏻
 
 - This is my version of [Ashutosh Hathidara's MasterPortfolio Project](https://github.com/ashutosh1919/masterPortfolio).
-- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
