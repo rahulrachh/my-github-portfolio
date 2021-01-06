@@ -1,4 +1,5 @@
-# Star this repo if it helps you for your website on GitHub.
+# My Gtihub Portfolio
+- This is my version of the [MasterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
 
 # Sections 📚
 
